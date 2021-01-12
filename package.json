@@ -1,0 +1,21 @@
+{
+  "name": "geojson-simplified",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Andriy",
+    "email": "andriy.andriyan1@gmail.com",
+    "url": "https://andriyandriyan.com"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^3.9.2",
+    "simplify-geojson": "^1.0.4"
+  }
+}
