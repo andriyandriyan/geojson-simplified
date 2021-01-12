@@ -19,6 +19,6 @@
     "simplify-geojson": "^1.0.4"
   },
   "engines": {
-    "node": "14.x"
+    "node": "12.x"
   }
 }
